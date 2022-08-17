@@ -3,3 +3,4 @@ the vanishing glass
 
 page 2 of my book
 
+I edited page 2 after commit it.
